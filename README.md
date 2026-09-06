@@ -13,7 +13,8 @@ Spring Security · JPA · QueryDSL · MySQL · MariaDB · Nginx · JUnit 5 · Te
 
 ## Open Source
 
-* **Gradle** — [Document supported WorkParameters types · #38952](https://github.com/gradle/gradle/pull/38952)
+* **Gradle** — [Document supported `WorkParameters` types · #38952](https://github.com/gradle/gradle/pull/38952)
+* **Springdoc OpenAPI** — [Fix embedded ID relation response schemas · #3334](https://github.com/springdoc/springdoc-openapi/pull/3334)
 * **ktlint** — [Add KDoc comment format rule · #3369](https://github.com/ktlint/ktlint/pull/3369)
 * **Java Operator SDK** — [Detect dependent resource API version changes · #3536](https://github.com/operator-framework/java-operator-sdk/pull/3536)
 * **Vaadin Flow** — [Avoid format strings in `FrontendUtils.console` · #25048](https://github.com/vaadin/flow/pull/25048)
@@ -21,8 +22,7 @@ Spring Security · JPA · QueryDSL · MySQL · MariaDB · Nginx · JUnit 5 · Te
 * **GraphQL Java** — [Fix nullable bound on `DataFetcherResult.newResult` · #4418](https://github.com/graphql-java/graphql-java/pull/4418)
 * **jjwt** — [Fix empty JSON encrypted content parsing · #1066](https://github.com/jwtk/jjwt/pull/1066)
 * **detekt** — [Fix outdated analysis projects script reference · #9660](https://github.com/detekt/detekt/pull/9660)
-* **Java Operator SDK** — [Contribution · #3513](https://github.com/operator-framework/java-operator-sdk/pull/3513)
-
+* **Java Operator SDK** — [Verify Kotlin interoperability · #3513](https://github.com/operator-framework/java-operator-sdk/pull/3513)
 
 ---
 
